@@ -2,11 +2,11 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "tfQdzh1j2DcZL6ZkDnbbBxvQgp7NhssyUDb6nxVGFKk27hqRrhRWtA0XndziJHmhmShvHotbtF8un6hEyH2ByKePmRmrG05x74SAETRDNPdJJd8C9JHuLm0Q5mm2L_HURB3_N5BGJmDnekAHxbp_wO-pIs3JmaovLCWKUKi5f1iv13w0ujRV2wEHI3Gyi5rF-3wnoqzZ5dHXxBd0IwtOQRoMI011okatMO8hh_K0a2_kJcAsHFP1khnfdXUDI89vmllTHZZMCd--02XV8KkveyILLvJyZOO25b1DyH1ALi2aL4K_G5nLXywCLzEx85VYj80OwBJx_cWc0WdeX7hphw",
+      "n": "khhLUA7T0rDQd1AyN2hDR9bGk4AKUftuJQD2wzIwk9D077uy-Sj00SqJfg2WtzbG3xoAKKuKdKufkDhV05jDdCnAHMV7wZ_hfbUd38Q4LQKWauRhoH5RpZIZe0RHLU1NW4GMp0_wcxPTO8aBFEHgJPl2fuqIZR5_NyJiUsewNIbZCokW7rEiH2KepL4AKOIgJpelucnseU0xIEL-sistCsqsZRwgsvAxHl7izvS_emROfzzo5HnNx6khB4AvmhTyGFYdQf37sJ4cDytqkFF8kjkq_Q4upDlriqi1499kSlkMVsgGuadNaw9r0xXb2xbrMEdk7u5oxUb4UU6CZ12pTw",
       "e": "AQAB",
       "alg": "RS256",
       "use": "sig",
-      "kid": "sjnam-key-1"
+      "kid": "sjnam-key-2"
     }
   ]
 }
